@@ -12,7 +12,7 @@
 2. Autonomous "Tour Guide" Robot (Best in class)
 3. Ambient Air Quality Sensing Device
 4. RC Horseshoe Crab (Robotic Mascot for HS Tech Dept)  
-![alt text](image.jpg)
+![alt text](https://github.com/JordanDoles/Engineering-Design-VI-Repo/blob/main/horseshoe%20crab.jpg)
 ---
 > "and the universe said everything you need is within you / and the universe said you are stronger than you know" - Julian Gough  
   
