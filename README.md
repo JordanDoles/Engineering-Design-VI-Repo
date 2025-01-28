@@ -14,7 +14,7 @@
 4. RC Horseshoe Crab (Robotic Mascot for HS Tech Dept)  
 ![horseshoe crab.jpg](https://github.com/JordanDoles/Engineering-Design-VI-Repo/blob/5c0ffe885dac82628fc99a537e8a3c7d1ad2c04d/horseshoe%20crab.jpg)
 ---
-> "and the universe said everything you need is within you / and the universe said you are stronger than you know" - Julian Gough  
+> "and the universe said everything you need is within you / and the universe said you are stronger than you know" - [Julian Gough](https://www.theendpoem.com/)  
   
 #### Hobbies/Interests:
 - Minecraft
