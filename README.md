@@ -5,7 +5,7 @@
 **Jordan Doles**  
 `3/4` *Computer Engineering Major*
 
-[Design IV Projects](https://www.example.com)  
+[Design IV Projects]([https://www.example.com](https://github.com/JordanDoles/Engineering-Design-VI-Repo))  
   
 #### Class Projects:  
 1. Speakers Amplifier Filter 
