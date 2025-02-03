@@ -5,7 +5,7 @@
 **Jordan Doles**  
 `3/4` *Computer Engineering Major*
 
-[Design VI Projects](https://github.com/JordanDoles/Engineering-Design-VI-Repo/blob/36813ab7cfce3ab55b7dca2632080712704dd55d/README.md)  
+[Design VI Projects](https://github.com/JordanDoles/Engineering-Design-VI-Repo/blob/36813ab7cfce3ab55b7dca2632080712704dd55d/Assignments.md)  
   
 #### Class Projects:  
 1. Speakers Amplifier Filter 
