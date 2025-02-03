@@ -9,7 +9,7 @@
   
 #### Class Projects:  
 1. Speakers Amplifier Filter 
-2. Autonomous "Tour Guide" Robot (Best in class)
+2. Autonomous "Tour Guide" Robot (Fastest course time in class)
 3. Ambient Air Quality Sensing Device
 4. RC Horseshoe Crab (Robotic Mascot for HS Tech Dept)  
 ![horseshoe crab.jpg](https://github.com/JordanDoles/Engineering-Design-VI-Repo/blob/5c0ffe885dac82628fc99a537e8a3c7d1ad2c04d/horseshoe%20crab.jpg)
