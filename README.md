@@ -6,6 +6,7 @@
 `3/4` *Computer Engineering Major*
 
 [Design VI Projects](Assignments.md)  
+[Design VI Labs](Labs.md)
   
 #### Class Projects:  
 1. Speakers Amplifier Filter 
