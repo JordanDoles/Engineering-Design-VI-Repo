@@ -21,3 +21,5 @@
 - 3D Modeling
 - Baking
 - Crochet/Knitting
+- Writing
+- Reading
